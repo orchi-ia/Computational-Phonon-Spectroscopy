@@ -1,2 +1,2 @@
 
-# Functions/__init__.py
+# Methodology/__init__.py
