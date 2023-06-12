@@ -57,4 +57,4 @@ As part of a master's degree, the university required the separate submission of
 4. <a name="Ref4"></a>[http://www.numpy.org/](http://www.numpy.org/)
 5. <a name="Ref5"></a>[http://www.matplotlib.org/](http://www.matplotlib.org/)
 6. <a name="Ref6"></a>[http://www.docs.python.org/3/library/os.html/](http://www.docs.python.org/3/library/os.html/)
-7. <a name="Ref7"></a>[http://pyyaml.org/wiki/PyYAML](http://pyyaml.org/wiki/PyYAML)}
+7. <a name="Ref7"></a>[http://pyyaml.org/wiki/PyYAML](http://pyyaml.org/wiki/PyYAML/)
